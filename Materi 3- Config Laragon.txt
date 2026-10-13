@@ -1,0 +1,7 @@
+Config Laragon:
+
+1. Download : laragon => https://laragon.org/download
+2. Download :phpmyadmin => https://www.phpmyadmin.net/
+3. Extract file ke folder laragon/etc/apps
+4. Ganti nama folder menjadi phpmyadmin dan restart Laragon Anda
+5. Silahkan buka browser dan akses ke alamat https://localhost/phpmyadmin
